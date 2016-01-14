@@ -13,7 +13,7 @@ package com.ff.qs;
 public class Volcano {
     
     public static void main(String[] args) {
-        System.out.println("Test Volcano");
+        System.out.println("Test Volcano from forked and cloned and modified project");
     }
     
 }
